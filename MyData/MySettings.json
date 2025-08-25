@@ -1,0 +1,23 @@
+{
+  "npoints": 400,
+  "graph1": {
+    "mode": "Tableau",
+    "color_hex": "#00FF41",
+    "xmin": 0.0,
+    "xmax": 1.0,
+    "ymin": 0.0,
+    "ymax": 1.0,
+    "calib_px0": null,
+    "calib_px1": null
+  },
+  "graph2": {
+    "mode": "Image",
+    "color_hex": "#FF1E19",
+    "xmin": 0.0,
+    "xmax": 1.0,
+    "ymin": 0.0,
+    "ymax": 1.0,
+    "calib_px0": null,
+    "calib_px1": null
+  }
+}
